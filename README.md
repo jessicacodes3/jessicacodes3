@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicacodes3
-- 👀 I’m interested in coding hot & trendy UI/UX front-end designs w/ gorgeous CSS.
+- 👀 I’m interested in coding hot, fun & trendy UI/UX front-end designs w/ gorgeous CSS.
 - 🌱 I love coding in HTML, CSS & JavaScript. I've taken college courses in JAVA, AWS Cloud, C, C++, SQL & Web Development...
 -    I also adore building apps in Android Studio in Kotlin programming language. 
 -    I swear by taking the Google Career Certificiates. They are awesome! I've completed the Associate Android Developer Certificate course & love it!!!
